@@ -22,5 +22,6 @@ public class Main {
                 return;
             }
         }
+        System.out.println(0);
     }
 }

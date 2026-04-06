@@ -1,4 +1,4 @@
-package BOJ.week05.BOJ_1260_DFS와BFS;
+package BOJ.week06.BOJ_1260_DFS와BFS;
 import java.util.*;
 import java.io.*;
 

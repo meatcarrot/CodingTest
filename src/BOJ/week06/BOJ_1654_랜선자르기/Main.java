@@ -1,4 +1,4 @@
-package BOJ.week05.BOJ_1654_랜선자르기;
+package BOJ.week06.BOJ_1654_랜선자르기;
 
 import java.io.*;
 import java.util.*;

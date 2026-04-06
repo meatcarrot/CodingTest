@@ -1,8 +1,7 @@
-package BOJ.week05.BOJ_11561_징검다리;
+package BOJ.week06.BOJ_11561_징검다리;
 
 
 import java.io.*;
-import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {

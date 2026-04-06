@@ -1,4 +1,4 @@
-package BOJ.week05.BOJ_2110_공유기설치;
+package BOJ.week06.BOJ_2110_공유기설치;
 
 import java.io.*;
 import java.util.*;

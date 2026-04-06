@@ -1,4 +1,4 @@
-package BOJ.week05.BOJ_4949_균형잡힌세상;
+package BOJ.week06.BOJ_4949_균형잡힌세상;
 import java.io.*;
 import java.util.*;
 public class Main {

@@ -1,4 +1,4 @@
-package BOJ.week05.BOJ_2164_카드2;
+package BOJ.week06.BOJ_2164_카드2;
 
 import java.io.*;
 import java.util.*;
